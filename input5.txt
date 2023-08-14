@@ -1,0 +1,10 @@
+1
+Y
+7
+-C OR D OR Y
+-R OR Z OR C
+-B OR D
+-D OR -R OR Z
+B
+-R OR D
+-D OR R

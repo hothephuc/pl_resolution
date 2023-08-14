@@ -1,0 +1,69 @@
+10
+-R OR D OR Y OR Z
+-C OR -R OR Y OR Z
+-C OR R OR Y
+-C OR D
+-D OR C OR Z
+-B OR -R OR Z
+D
+-B OR R
+-R OR Z
+-D OR Z
+22
+-C OR Y OR Z
+-R OR Y OR Z
+-R OR D OR Z
+-B OR C OR Z
+-B OR Z
+-C OR -D OR Y OR Z
+-C OR -R OR Z
+-B OR -D OR Z
+R
+-C OR D OR Y
+-R OR C OR Z
+-B OR D
+-C OR R
+-C OR D OR Y OR Z
+-R OR C OR Y OR Z
+-B OR D OR Y OR Z
+-D OR -R OR Y OR Z
+-B OR -C OR Y OR Z
+-D OR R OR Y OR Z
+-C OR Z
+C OR Z
+Z
+25
+-C OR R OR Y OR Z
+D OR Y OR Z
+-B OR -R OR Y OR Z
+-D OR C OR Y OR Z
+-B OR R OR Y OR Z
+-C OR -D OR Z
+-D OR Y OR Z
+-C OR R OR Y
+-C OR R OR Y OR Z
+-C OR D OR Z
+-B OR D OR Z
+-D OR -R OR Z
+-B OR -C OR Z
+-D OR R OR Z
+-C OR D OR Y OR Z
+R OR Y OR Z
+D OR Z
+-B OR C OR Y OR Z
+-B OR -D OR Y OR Z
+-B OR -D OR Y OR Z
+-B OR Y OR Z
+Y OR Z
+-B OR R OR Z
+C OR Y OR Z
+R OR Z
+7
+-R OR D OR Y OR Z
+-C OR R OR Z
+-C OR R
+-C OR R OR Z
+-B OR -D OR Z
+-B OR D OR Y OR Z
+D OR Y OR Z
+NO

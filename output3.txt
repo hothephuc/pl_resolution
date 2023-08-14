@@ -1,0 +1,21 @@
+3
+-A
+B
+-C
+4
+-B OR C
+A OR C
+-B OR A
+{}
+2
+-A
+-C
+2
+-B OR C
+-B OR A
+2
+-A OR C
+-C OR A
+1
+-C OR B
+NO
